@@ -1,10 +1,10 @@
-
-# DevOps Capstone Project
+# Account REST API Service
 
 [![CI Build](https://github.com/YashGawade/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/YashGawade/devops-capstone-project/actions/workflows/ci-build.yaml)
 
+A Python Flask REST API microservice for managing accounts, developed as part of the IBM DevOps Capstone Project.
 
-
+This service supports account management operations and uses automated CI checks to validate code quality and tests.
 
 
 
